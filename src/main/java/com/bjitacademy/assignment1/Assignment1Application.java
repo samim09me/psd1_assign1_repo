@@ -10,4 +10,8 @@ public class Assignment1Application {
 		SpringApplication.run(Assignment1Application.class, args);
 	}
 
+	public void test() {
+		System.out.println("Test")
+	}
+
 }
