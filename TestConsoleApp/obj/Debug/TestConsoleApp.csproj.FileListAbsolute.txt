@@ -1,7 +1,0 @@
-E:\PSD Training\Day 5\psd1_assign1_repo\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
-E:\PSD Training\Day 5\psd1_assign1_repo\TestConsoleApp\bin\Debug\TestConsoleApp.exe
-E:\PSD Training\Day 5\psd1_assign1_repo\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
-E:\PSD Training\Day 5\psd1_assign1_repo\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.AssemblyReference.cache
-E:\PSD Training\Day 5\psd1_assign1_repo\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.CoreCompileInputs.cache
-E:\PSD Training\Day 5\psd1_assign1_repo\TestConsoleApp\obj\Debug\TestConsoleApp.exe
-E:\PSD Training\Day 5\psd1_assign1_repo\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
