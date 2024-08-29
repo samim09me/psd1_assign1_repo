@@ -11,7 +11,7 @@ public class Assignment1Application {
 	}
 
 	public void test() {
-		System.out.println("Test")
+		System.out.println("Test");
 	}
 
 }
